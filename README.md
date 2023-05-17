@@ -1,5 +1,7 @@
 ### TK here! 👩‍💻
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=taisiat&theme=dark&background=000000)](https://git.io/streak-stats)
+
 Software engineer, problem solver, builder 🛠. I started my career working in collaboration with engineers to bring software solutions to the world. I learned that if you want to build a product people love and actually use✨, you have to deeply understand the end users 🕵️‍♀️ first, including how the tool fits into their larger goals. Now, I’ve added engineering tools and frameworks to my skillset. I’ve built apps using React, JavaScript, Ruby on Rails, SQL, CSS, HTML5, PostgreSQL, MongoDB, Mongoose, Node.js, Webpack and other tools. I’ve leveraged APIs from OpenAI, AWS, and Google Maps Platform to enrich the apps I’ve built too. Intrigued? Read on.
 
 I’ve always loved solving tough, diverse, and impactful problems 🧐. I earned an undergraduate business degree from the University of Michigan and joined the management consulting world in McKinsey’s business technology practice. There, and later at Salesforce, I helped engineers and non-technical folks bridge gaps, define requirements, and deploy software that end users loved. A fun example - I worked with Salesforce’s Einstein AI engineers to tune their sales-focused lead scoring product.
