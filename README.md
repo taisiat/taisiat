@@ -39,7 +39,9 @@ I’ve leveraged `OpenAI's API` to enrich the apps I’ve built too. Intrigued? 
 I earned an undergraduate business degree from the University of Michigan and joined the management consulting world in McKinsey’s business technology practice. There, and later at Salesforce, I helped engineers and non-technical folks bridge gaps, define requirements, and deploy software that end users loved. A fun example - I worked with Salesforce’s Einstein AI engineers to tune their sales-focused lead scoring product.
 
 #### I realized I wanted to become an engineer when I was at Scale AI, a high-growth AI startup 🤖
-I was an early hire and progressed through many roles over 4 years; scoping out the end user’s needs was always key to success. Sometimes the end user was the customer (incredible AI teams), and by understanding their ML roadmaps I coordinated with Scale engineers to deliver solutions that won over 100 deals. Other times the end user was Scale’s ML ops force; I brought many internal software tools into existence, from recognizing the need to collabing with engineers to rollout. Seeing the impact that a single well-scoped engineer could have inspired me to become one 🌟. 
+I was an early hire and progressed through many roles over 4 years; scoping out the end user’s needs was always key to success. Sometimes the end user was the customer (incredible AI teams), and by understanding their ML roadmaps I coordinated with Scale engineers to deliver solutions that won over 100 deals. [Here's my approach.](https://scale.com/blog/partnering-with-customers)
+
+Other times the end user was Scale’s ML ops force; I brought many internal software tools into existence, from recognizing the need to collabing with engineers to rollout. Seeing the impact that a single well-scoped engineer could have inspired me to become one 🌟. 
 
 #### So I decided to do something about it!
 I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a vanilla JavaScript browser game, a Rails/React fullstack app, and a team-based MERN fullstack app, I’ve found my brain 🧠 likes this challenge.
