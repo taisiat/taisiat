@@ -12,7 +12,7 @@
 #### I'm a software engineer, problem solver, builder 🛠
 I started my career working in collaboration with engineers to bring software solutions to the world. I learned that if you want to build a product people love and actually use✨, you have to deeply understand the end users 🕵️‍♀️ first, including how the tool fits into their larger goals. 
 
-#### Now, I’ve added engineering tools and frameworks to my skillset
+#### Now, I use these to build solutions people love:
 
 <p align="center">
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -44,7 +44,7 @@ I was an early hire and progressed through many roles over 4 years; scoping out 
 Other times the end user was Scale’s ML ops force; I brought many internal software tools into existence, from recognizing the need to collabing with engineers to rollout. Seeing the impact that a single well-scoped engineer could have inspired me to become one 🌟. 
 
 #### So I decided to do something about it!
-I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a vanilla JavaScript browser game, a Rails/React fullstack app, and a team-based MERN fullstack app, I’ve found my brain 🧠 likes this challenge.
+I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a vanilla JavaScript browser game, a Rails/React fullstack app, and a team-based MERN fullstack app, I’ve found my brain 🧠 likes coding.
 
 #### I'm also a human
 One who loves activities that involve elevation change. 
