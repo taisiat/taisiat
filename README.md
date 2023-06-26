@@ -1,3 +1,4 @@
+
 ### TK here! 👩‍💻
 
 <p align="center">
@@ -6,6 +7,12 @@
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taisiat&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="180">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taisiakaraseva/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
   </a>
 </p>
 
@@ -45,7 +52,7 @@ I was an early hire and progressed through many roles over 4 years. Understandin
 Other times the end user was Scale’s ML ops force; I brought many internal software tools into existence, from recognizing the need to collabing with engineers to rollout. Seeing the impact that a single well-scoped engineer could have inspired me to become one 🌟. 
 
 #### So I decided to do something about it!
-I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a vanilla JavaScript browser game, a Rails/React fullstack app, and a team-based MERN fullstack app, I’ve found my brain 🧠 likes coding.
+I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a <a href="https://taisiat.github.io/bouncy-bee/?utm_source=github&utm_medium=readme">🐝 vanilla JavaScript browser game</a>, a <a href="https://caro.herokuapp.com/?utm_source=github&utm_medium=readme">🚘 Rails/React fullstack app</a>, and a <a href="https://grubglobe.herokuapp.com/?utm_source=github&utm_medium=readme&utm_term=tk">🍜 team-based MERN fullstack app</a>, I’ve found my brain 🧠 likes coding.
 
 #### I'm also a human
 One who loves activities that involve elevation change. 
