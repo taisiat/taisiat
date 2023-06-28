@@ -1,5 +1,5 @@
 
-### TK here! 👩‍💻
+### TK here! ✨👩‍💻
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -12,12 +12,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taisiakaraseva/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" width="120" height="28">
+  </a>
+  <a href="https://www.taisiat.com/?utm_source=github&utm_medium=readme_top">
+    <img src="https://img.shields.io/badge/_✨_Portfolio_-089992?style=for-the-badge" alt="Portfolio Link" width="120" height="28">
   </a>
 </p>
 
+
 #### I'm a software engineer, problem solver, builder 🛠
-I started my career working in collaboration with engineers to bring software solutions to the world. I learned that if you want to build a product people love and actually use✨, you have to deeply understand the end users 🕵️‍♀️ first, including how the tool fits into their larger goals. 
+I started my career working in collaboration with engineers to bring software solutions to the world. I learned that if you want to build a product people love and actually use ✨, you have to deeply understand the end users 🕵️‍♀️ first, including how the tool fits into their larger goals. 
 
 #### Now, I use these to build solutions people love:
 
@@ -55,18 +59,19 @@ Other times the end user was Scale’s ML ops force; I brought many internal sof
 I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a <a href="https://taisiat.github.io/bouncy-bee/?utm_source=github&utm_medium=readme">🐝 vanilla JavaScript browser game</a>, a <a href="https://caro.herokuapp.com/?utm_source=github&utm_medium=readme">🚘 Rails/React fullstack app</a>, and a <a href="https://grubglobe.herokuapp.com/?utm_source=github&utm_medium=readme&utm_term=tk">🍜 team-based MERN fullstack app</a>, I’ve found my brain 🧠 likes coding.
 
 #### I'm also a human
-One who loves activities that involve elevation change. 
- - If there’s a tall tower or natural landmass, I’m probably atop it, with my camera 📷. 
- - If it‘s a snowy landmass, I’m probably skiing or snowboarding 🏂.
- - If more vertical, then I might be climbing 🧗‍♀️.
- - If there’s water, I’m likely scuba diving 🧜‍♀️. 
-
-If it’s flat… no worries, my third great hobby is hitting up the season’s fruit u-pick 🍒🍓🍎, growing my own hot peppers 🌶, and fermenting cabbage 🥬.
+I'm into:
+ - Activities that involve elevation change 🏂 🧗‍♀️ 🧜‍♀️
+ - 📷 Photography - I contribute photos to <a href="https://unsplash.com/@taisiat">Unsplash!</a>
+ - Fruit u-pick 🍒🍓🍎 and growing my own hot peppers 🌶
+ - Fermentation
 
 #### Let's build something extraordinary!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/taisiakaraseva/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile">
+  </a>
+    <a href="https://www.taisiat.com/?utm_source=github&utm_medium=readme_bottom">
+    <img src="https://img.shields.io/badge/_✨_Portfolio_-089992?style=for-the-badge" alt="Portfolio Link" width="120" height="28">
   </a>
 </p>
