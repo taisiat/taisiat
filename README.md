@@ -50,7 +50,7 @@ I’ve leveraged `OpenAI's API` to enrich the apps I’ve built too.
 #### Before this life, I was problem solving and bridging gaps between engineers and end users
 After earning an undergraduate business degree from the University of Michigan - Ann Arbor, I joined the management consulting world in McKinsey’s business technology practice. There, and later at Salesforce, I helped engineers and non-technical folks bridge gaps, define requirements, and deploy software that end users loved. A fun example - I worked with Salesforce’s Einstein AI engineers to tune their sales-focused lead scoring product.
 
-#### I realized I wanted to become an engineer when I was at Scale AI, a high-growth AI startup 🤖
+#### I realized I wanted to become an engineer when I was at <a href="https://scale.com/">Scale AI</a>, a high-growth AI startup 🤖
 I was an early hire and progressed through many roles over 4 years. Understanding the end user proved to be the key to success in all my roles. Sometimes the end user was the customer (incredible AI teams building autonomous vehicles, recommendation engines, and lots more), and by understanding their ML roadmaps I coordinated with Scale engineers to deliver solutions that won over 100 deals. [Here's my approach.](https://scale.com/blog/partnering-with-customers)
 
 Other times the end user was Scale’s ML ops force; I brought many internal software tools into existence, from recognizing the need to collabing with engineers to rollout. Seeing the impact that a single well-scoped engineer could have inspired me to become one 🌟. 
@@ -58,8 +58,7 @@ Other times the end user was Scale’s ML ops force; I brought many internal sof
 #### So I decided to do something about it!
 I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a <a href="https://taisiat.github.io/bouncy-bee/?utm_source=github&utm_medium=readme">🐝 vanilla JavaScript browser game</a>, a <a href="https://caro.herokuapp.com/?utm_source=github&utm_medium=readme">🚘 Rails/React fullstack app</a>, and a <a href="https://grubglobe.herokuapp.com/?utm_source=github&utm_medium=readme&utm_term=tk">🍜 team-based MERN fullstack app</a>, I’ve found my brain 🧠 likes coding.
 
-#### I'm also a human
-I'm into:
+#### I'm also into:
  - 📷 Photography - I contribute photos to <a href="https://unsplash.com/@taisiat">Unsplash!</a>
  - Fruit u-pick 🍒🍓🍎 and growing my own hot peppers 🌶
  - Fermentation
