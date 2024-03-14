@@ -47,6 +47,7 @@ I started my career working in collaboration with engineers to bring software so
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>  
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
 <p/>
 
