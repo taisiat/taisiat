@@ -29,6 +29,7 @@ I started my career working in collaboration with engineers to bring software so
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="12%" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo-title-dark.png"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
