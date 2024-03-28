@@ -50,6 +50,7 @@ I started my career working in collaboration with engineers to bring software so
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>  
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg"></code>
+<code><img width="12%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 <p/>
 
 I’ve leveraged `OpenAI's API` to enrich the apps I’ve built too.
