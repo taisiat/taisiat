@@ -36,6 +36,7 @@ I started my career working in collaboration with engineers to bring software so
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+<code><img width="12%" src="https://miro.medium.com/v2/resize:fit:1400/0*msfsws06ImMSJYop.jpg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="12%" src="https://upload.vectorlogo.zone/logos/openai/images/205d980f-756b-4d2f-a030-6cc7cda44f37.svg"></code>
