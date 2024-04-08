@@ -56,8 +56,6 @@ I started my career working in collaboration with engineers to bring software so
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
 <p/>
 
-I’ve leveraged `OpenAI's API` to enrich the apps I’ve built too.
-
 #### Before this life, I was problem solving and bridging gaps between engineers and end users
 After earning an undergraduate business degree from the University of Michigan - Ann Arbor, I joined the management consulting world in McKinsey’s business technology practice. There, and later at Salesforce, I helped engineers and non-technical folks bridge gaps, define requirements, and deploy software that end users loved. A fun example - I worked with Salesforce’s Einstein AI engineers to tune their sales-focused lead scoring product.
 
@@ -68,6 +66,8 @@ Other times the end user was Scale’s ML ops force; I brought many internal sof
 
 #### So I decided to do something about it!
 I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a <a href="https://taisiat.github.io/bouncy-bee/?utm_source=github&utm_medium=readme">🐝 vanilla JavaScript browser game</a>, a <a href="https://caro.herokuapp.com/?utm_source=github&utm_medium=readme">🚘 Rails/React fullstack app</a>, and a <a href="https://grubglobe.herokuapp.com/?utm_source=github&utm_medium=readme&utm_term=tk">🍜 team-based MERN fullstack app</a>, I’ve found my brain 🧠 likes coding.
+
+#### Today I am a software engineer at <a href="https://www.thetradedesk.com/us">The Trade Desk</a> and a founding software engineer of <a href="https://www.letterheist.com">Letterheist</a>.
 
 #### I'm also into:
  - 📷 Photography - I contribute photos to <a href="https://unsplash.com/@taisiat">Unsplash!</a>
