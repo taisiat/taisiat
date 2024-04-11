@@ -70,7 +70,7 @@ I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned
 #### Today I am a software engineer at <a href="https://www.thetradedesk.com/us">The Trade Desk</a> and a founding software engineer of <a href="https://www.letterheist.com">Letterheist</a>.
 
 #### I'm also into:
- - 📷 Photography - I contribute photos to <a href="https://unsplash.com/@taisiat">Unsplash!</a>
+ - 📷 Photography - I contribute photos to <a href="https://unsplash.com/@taisiat">Unsplash!</a> 750K+ views
  - Fruit u-pick 🍒🍓🍎 and growing my own hot peppers 🌶
  - Fermentation
  - Activities that involve elevation change 🏂 🧗‍♀️ 🧜‍♀️
