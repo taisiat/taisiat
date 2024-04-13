@@ -67,7 +67,8 @@ Other times the end user was Scale’s ML ops force; I brought many internal sof
 #### So I decided to do something about it!
 I found the most rigorous ⚡ and fast-paced coding bootcamp I could and learned to code. Building a <a href="https://taisiat.github.io/bouncy-bee/?utm_source=github&utm_medium=readme">🐝 vanilla JavaScript browser game</a>, a <a href="https://caro.herokuapp.com/?utm_source=github&utm_medium=readme">🚘 Rails/React fullstack app</a>, and a <a href="https://grubglobe.herokuapp.com/?utm_source=github&utm_medium=readme&utm_term=tk">🍜 team-based MERN fullstack app</a>, I’ve found my brain 🧠 likes coding.
 
-#### Today I am a software engineer at <a href="https://www.thetradedesk.com/us">The Trade Desk</a> and a founding software engineer of <a href="https://www.letterheist.com">Letterheist</a>.
+#### Today I am a software engineer
+I am helping build the future of the open internet at <a href="https://www.thetradedesk.com/us">The Trade Desk</a>. I am also a founding software engineer of <a href="https://www.letterheist.com">Letterheist</a>, a multi-player letter game backed with <a href="https://www.kickstarter.com/projects/shannonyhong/letterheist">Kickstarter</a>.
 
 #### I'm also into:
  - 📷 Photography - I contribute photos to <a href="https://unsplash.com/@taisiat">Unsplash!</a> 750K+ views
