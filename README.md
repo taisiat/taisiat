@@ -21,7 +21,7 @@
 
 
 #### I'm a user-centric, product-minded software engineer
-I started my career working in collaboration with engineers to bring software solutions to the world. I learned that if you want to build a product people love and actually use ✨, you have to deeply understand the end users first, including how the tool fits into their larger goals 🎯.
+I started my career working in collaboration with engineers. I learned that if you want to build a product people love and actually use ✨, you have to deeply understand the end users first, including how the tool fits into their larger goals 🎯 and incentives.
 
 #### Now, I use these to build solutions people love:
 
